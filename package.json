@@ -1,0 +1,16 @@
+{
+  "name": "prime-cheack",
+  "version": "1.0.0",
+  "description": "cheack a prime number",
+  "keywords": [
+    "prime",
+    "test"
+  ],
+  "license": "ISC",
+  "author": "yassin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
